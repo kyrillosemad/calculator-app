@@ -1,6 +1,6 @@
-import 'package:calculator/data/data.dart';
+import 'package:calculator/constants/data.dart';
 
-class LOGIC {
+class Logic {
   static String input = "";
   static var result = "0";
 
