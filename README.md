@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+Through this project, I wanted to showcase the importance of creativity and challenges in the world of programming. Instead of using a ready-made calculator, I designed and programmed one from scratch. I built a simple user interface and basic mathematical functions. I can proudly say that this project reflects my programming skills and creative thinking.
 
 ## Getting Started
 
